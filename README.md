@@ -10,7 +10,7 @@ This repository contains the code and 3D design files to create an airsoft game 
 * List all parts required
 
 # Required parts
-* Generic Standard 20x4 LCD with PCF8475 Module
+* Generic Standard 20x4 LCD with PCF8574 Module
 * 2 x Arcade buttons with backlight
 * WS2811 LED Strip
 * 4x4 Matrix keypad
