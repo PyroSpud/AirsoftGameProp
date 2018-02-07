@@ -7,6 +7,19 @@ This repository contains the code and 3D design files to create an airsoft game 
 * Export Fusion360 files
 * Add Pin-Disarm Mode
 * Add Dead man's Switch Mode
+* List all parts required
+
+# Required parts
+* Generic Standard 20x4 LCD with PCF8475 Module
+* 2 x Arcade buttons with backlight
+* WS2811 LED Strip
+* 4x4 Matrix keypad
+* Arduino Mega
+* TM1638 8-Digit Display Module
+* Step-Down converter (or other 12V to 5V step down)
+* Fuse and holder
+* Small Speaker
+* LM358 Amplifier Module
 
 # Arduino Libraries Required
 * [ButtonDebounce](https://github.com/maykon/ButtonDebounce)
