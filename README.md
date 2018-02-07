@@ -16,4 +16,5 @@ This repository contains the code and 3D design files to create an airsoft game 
 * [Keypad](https://playground.arduino.cc/Code/Keypad)
 * [ArduinoMenu](https://github.com/neu-rah/ArduinoMenu)
 * [LiquidCrystal_PCF8574](https://github.com/mathertel/LiquidCrystal_PCF8574)
+* [ArduBoyTones](https://github.com/MLXXXp/ArduboyTones)
 * [Optional] MemoryFree
