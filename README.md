@@ -19,7 +19,7 @@ This repository contains the code and 3D design files to create an airsoft game 
 * Step-Down converter (or other 12V to 5V step down)
 * Fuse and holder
 * Small Speaker
-* LM358 Amplifier Module
+* LM386 Amplifier Module
 
 # Arduino Libraries Required
 * [ButtonDebounce](https://github.com/maykon/ButtonDebounce)
